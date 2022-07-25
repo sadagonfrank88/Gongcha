@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+.container .navbar-brand img{
+    height: 70px;
+}
+.nutbam{
+    background: rgb(185, 11, 11) !important;
+    border-radius: 100px !important;
+    border: none !important;
+    padding: 7px 35px !important;
+}
+.nutbam:hover{
+    background: #17c291 !important;
+}
+.title1{
+    padding: 50px 0 10px 0;
+}
+.page-holder {
+    min-height: 100vh;
+}
+.bg-cover {
+    background-size: cover !important;
+}
+footer{
+    background-color:#6d3f3c;
+}
+.motcot ul{
+    list-style-type: none;
+}
+footer hr{
+ border: 1px solid #FFFFFF;
+}
+footer img{
+    height: 50px;
+}
+.mauchu{
+    background: rgb(185,0,69);
+background: linear-gradient(90deg, rgba(185,0,69,1) 0%, rgba(255,98,98,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+   background-clip: text;
+}
+.maunen{
+    background: #E2EDFF;  
+}
+.khung{
+    background: #fdeeee;
+    box-shadow: 0px 24px 32px -3px rgba(3, 9, 50, 0.04);
+    border-radius: 24px;
+    padding: 30px;  
+}
+.container .lynuoc img{
+    width: 250px;
+}
+/* <Modal> */
+.modal-body input { margin-bottom: 10px;}
+.modal-body h1 { padding: 10px 0px;}
+.brand-client__box-img { width: 20px 20px; overflow: hidden; margin:0px 5px}
+.brand-client__box-img img {width:100%; object-fit: contain;}
+
+.brand-client { padding:100px 0px}
+.brand-client-content{} 
+/* <Modal> */
+
+.kichthuoc{
+    width: 200px;
+    color: white !important;
+    border-radius: 100px !important;
+    padding: 10px 30px !important;
+    background: rgb(185,0,69);
+background: linear-gradient(90deg, rgba(185,0,69,1) 0%, rgba(255,98,98,1) 100%);
+    box-shadow: 0px 8px 23px rgba(65, 132, 247, 0.24);
+}
+.container2{
+    width: 700px;
+}
